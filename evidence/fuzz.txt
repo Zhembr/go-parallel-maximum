@@ -1,0 +1,6 @@
+fuzz: elapsed: 0s, gathering baseline coverage: 0/2 completed
+fuzz: elapsed: 0s, gathering baseline coverage: 2/2 completed, now fuzzing with 2 workers
+fuzz: elapsed: 3s, execs: 88721 (29573/sec), new interesting: 21 (total: 23)
+fuzz: elapsed: 5s, execs: 173899 (41963/sec), new interesting: 23 (total: 25)
+PASS
+ok  	github.com/Yandex-Practicum/sprint9-final	5.059s

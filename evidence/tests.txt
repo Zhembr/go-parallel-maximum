@@ -1,0 +1,1 @@
+ok  	github.com/Yandex-Practicum/sprint9-final	1.206s	coverage: 72.1% of statements
